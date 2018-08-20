@@ -9,7 +9,7 @@ LibraryAppFX is a simple console application.
 * [Contact](#contact)
 
 ## General info
-I created this application to expand my knowledge on MySQL and learn the JavaFX
+I created this application to expand my knowledge on MySQL, learn JavaFX and develop my old application "ConsoleLibrary" 
 
 ## Screenshots
 Login section and adding a new employee:
