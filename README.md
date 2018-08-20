@@ -12,13 +12,13 @@ LibraryAppFX is a simple console application.
 I created this application to expand my knowledge on MySQL and learn the JavaFX
 
 ## Screenshots
-Login section and adding a new employee 
+Login section and adding a new employee:
 
 ![Example screenshot](./screenshot.png)
 
 
 
-Main menu 
+Main menu section: 
 
 
 ![Example screenshot](./screenshot2.png)
