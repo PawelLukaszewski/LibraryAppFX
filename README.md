@@ -1,5 +1,5 @@
 # LibraryAppFX
-LibraryAppFX is a simple console application.
+LibraryAppFX is a simple JavaFX application.
 
 ## Table of contents
 * [General info](#general-info)
