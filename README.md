@@ -13,10 +13,14 @@ I created this application to expand my knowledge on MySQL and learn the JavaFX
 
 ## Screenshots
 Login section and adding a new employee 
+
 ![Example screenshot](./screenshot.png)
 
 
+
 Main menu 
+
+
 ![Example screenshot](./screenshot2.png)
 
 
