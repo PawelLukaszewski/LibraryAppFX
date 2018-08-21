@@ -9,7 +9,7 @@ LibraryAppFX is a simple JavaFX application.
 * [Contact](#contact)
 
 ## General info
-I created this application to expand my knowledge on MySQL, learn JavaFX and develop my old application "ConsoleLibrary" 
+I created this application to expand my knowledge on MySQL, learn JavaFX and learn how to encrypt the password (I used encrypt sha-256)  which we save in database and also develop my old application "ConsoleLibrary". 
 
 ## Screenshots
 Login section and adding a new employee:
